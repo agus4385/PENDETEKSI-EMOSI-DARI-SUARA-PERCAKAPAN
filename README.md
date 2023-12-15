@@ -8,5 +8,5 @@ Kode ini didapatkan dari referensi [GitHub ini](https://github.com/DeivisDervini
 | Nama        | NIM |
 |-------------|------|
 | Qotrun Nada Nasrulloh    | 21.11.4354   |
-| Agus Kurniawan  | 21.1.4385   | 
+| Agus Kurniawan  | 21.11.4385   | 
 
